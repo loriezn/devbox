@@ -1,2 +1,2 @@
 # devbox
-A dockerized devbox for project seperation
+A dockerized devbox for projects
