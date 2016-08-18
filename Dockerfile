@@ -6,10 +6,14 @@ apt-utils \
 nano \
 bash-completion \
 git \
-build-essential \
-automake pkg-config \
+libc6-dev \
+libc-dev \
 gcc \
 g++ \
+make \
+dpkg-dev \
+automake \
+pkg-config \
 wget \
 python-dev \
 libssl-dev \
