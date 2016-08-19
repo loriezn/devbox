@@ -1,4 +1,4 @@
-FROM phusion/ubuntu:latest
+FROM phusion/baseimage:latest
 MAINTAINER Lorin Zahra-Newman <loriezn@gmail.com>
 RUN apt-get -y update && \ 
 apt-get -y --no-install-recommends install -y  \
