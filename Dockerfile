@@ -8,6 +8,8 @@ RUN apt-get -y update && \
 	nano \
 	bash-completion \
 	git \
+	wget \
+	curl \
 	fonts-font-awesome && \
 	rm -rf /tmp/* /var/tmp/* && \ 
 	rm -rf /var/lib/apt/lists/*
